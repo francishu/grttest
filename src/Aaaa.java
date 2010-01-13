@@ -1,5 +1,5 @@
 
 public class Aaaa {
 
-	String aa="";
+	String aa="bbbbb";
 }
